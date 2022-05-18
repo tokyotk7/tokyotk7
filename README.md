@@ -1,12 +1,3 @@
 sobre mim 
 
-👋 Hi, I’m @tokyotk7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tokyotk7/tokyotk7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ @tokyotk7
